@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**priyanshu87694/priyanshu87694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am here to help you achieve your goals in software development, machine learning, big data etc. 
+**Please check** the "How to reach me" section below and choose your appropriate option to reach out, see you then 🍻.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m full time freelancer at [freelancer.com](https://www.freelancer.in/u/priyanshujhapj)
+- 🌱 I’m learning machine learing/deep learning and data science
+- 👯 I’m looking to collaborate on projects related in automation, data-science/ETL, Linux administration, API/back-end development
+- 📫 How to reach me:
+    🖥️ - https://www.freelancer.in/u/priyanshujhapj       [Freelancer]
+    📱 - https://t.me/priyanshujhapj                      [Telegram]
+    📬 - priyanshjha.pj@gmail.com                         [Email]
+    👋 - live:.cid.58711352f4d1326d                       [Skype]
+    🕴️ - https://www.linkedin.com/in/priyanshu87694/      [LinkedIn]
