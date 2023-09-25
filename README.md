@@ -6,7 +6,7 @@ I am here to help you achieve your goals in software development, machine learni
 
 - 🔭 I’m full time freelancer at [freelancer.com](https://www.freelancer.in/u/priyanshujhapj)
   
-- 🌱 I’m learning machine learing/deep learning and data science
+- 🌱 I’m learning machine learning/deep learning and data science
   
 - 👯 I’m looking to collaborate on projects related in automation, data-science/ETL, Linux administration, API/back-end development
   
