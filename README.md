@@ -11,6 +11,7 @@ I am here to help you achieve your goals in software development, machine learni
 - 👯 I’m looking to collaborate on projects related in automation, data-science/ETL, Linux administration, API/back-end development
   
 - 📫 How to reach me:
+
     🖥️ - https://www.freelancer.in/u/priyanshujhapj       [Freelancer]
   
     📱 - https://t.me/priyanshujhapj                      [Telegram]
