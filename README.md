@@ -16,7 +16,7 @@ I am here to help you achieve your goals in software development, machine learni
   
     📱 - https://t.me/priyanshujhapj                      [Telegram]
   
-    📬 - priyanshjha.pj@gmail.com                         [Email]
+    📬 - priyanshujha@myyahoo.com                         [Email]
   
     👋 - live:.cid.58711352f4d1326d                       [Skype]
   
