@@ -20,4 +20,4 @@ I am here to help you achieve your goals in software development, machine learni
   
     👋 - live:.cid.58711352f4d1326d                       [Skype]
   
-    🕴️ - https://www.linkedin.com/in/priyanshu87694/      [LinkedIn]
+    🕴️ - https://www.linkedin.com/in/priyanshujhapj/      [LinkedIn]
